@@ -1,0 +1,2239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../ValueWebb/valuewebb/resources/META-INF/persistence-dev.xml" line="26" mnemonic="1" />
+    <bookmark url="file://$PROJECT_DIR$/../ValueWebb/valuewebb/resources/jbpm-hibernate.cfg.xml" line="28" mnemonic="2" />
+    <bookmark url="file://$PROJECT_DIR$/../ValueWebb/valuewebb/resources/WEB-INF/components.xml" line="78" mnemonic="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="19ec3e64-9617-4224-bdf7-9d61c9925698" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ValueWebb/valuewebb/reports/CI/xlsFiles/airCargo_en.xls" afterPath="$PROJECT_DIR$/../ValueWebb/valuewebb/reports/CI/xlsFiles/airCargo_en.xls" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/report/AirCargoReporter.java" afterPath="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/report/AirCargoReporter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/FisWsdlService.java" afterPath="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/FisWsdlService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/FisWsdlServiceFactory.java" afterPath="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/FisWsdlServiceFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/JaxBUtil.java" afterPath="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/JaxBUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/timer/ScheduleController.java" afterPath="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/timer/ScheduleController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/xmlstore/TTXmlStoreScheduler.java" afterPath="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/xmlstore/TTXmlStoreScheduler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ValueWebb/valuewebb/src/main/com/webbfontaine/valuewebb/model/TtGen.java" afterPath="$PROJECT_DIR$/../ValueWebb/valuewebb/src/main/com/webbfontaine/valuewebb/model/TtGen.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ValueWebb/valuewebb/src/main/com/webbfontaine/valuewebb/model/TtTrans.java" afterPath="$PROJECT_DIR$/../ValueWebb/valuewebb/src/main/com/webbfontaine/valuewebb/model/TtTrans.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ValueWebb/valuewebb/src/main/com/webbfontaine/valuewebb/model/util/Utils.java" afterPath="$PROJECT_DIR$/../ValueWebb/valuewebb/src/main/com/webbfontaine/valuewebb/model/util/Utils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/VWEntityHome.java" afterPath="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/VWEntityHome.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ValueWebb/valuewebb/resources/WEB-INF/components-test.xml" afterPath="$PROJECT_DIR$/../ValueWebb/valuewebb/resources/WEB-INF/components-test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ValueWebb/valuewebb/resources/import-dev/import-dev-common-dbspec.sql.oracle" afterPath="$PROJECT_DIR$/../ValueWebb/valuewebb/resources/import-dev/import-dev-common-dbspec.sql.oracle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ValueWebb/valuewebb/resources/import-dev/import-dev-common.sql" afterPath="$PROJECT_DIR$/../ValueWebb/valuewebb/resources/import-dev/import-dev-common.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ValueWebb/valuewebb/resources/import-dev/rimm/import-dev-props.sql" afterPath="$PROJECT_DIR$/../ValueWebb/valuewebb/resources/import-dev/rimm/import-dev-props.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ValueWebb/valuewebb/resources/import-dev/rimm/import-dev-rimm_doctype.sql.CI" afterPath="$PROJECT_DIR$/../ValueWebb/valuewebb/resources/import-dev/rimm/import-dev-rimm_doctype.sql.CI" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ValueWebb/valuewebb/resources/META-INF/persistence-dev.xml" afterPath="$PROJECT_DIR$/../ValueWebb/valuewebb/resources/META-INF/persistence-dev.xml" />
+    </list>
+    <ignored path="Trials.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="Commander">
+    <leftPanel url="file://$PROJECT_DIR$" />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Trials" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="common.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/view/js/common.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.25793102" vertical-offset="255" max-vertical-offset="2754">
+              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../ValueWebb/valuewebb" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/ocpjp/package2/CloneTopic.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/tfis/MdaPort.java" />
+        <option value="$PROJECT_DIR$/src/com/ocpjp/package2/DirectoryStreamTopic.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/main/com/webbfontaine/valuewebb/model/util/GCNetUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/ocpjp/package2/FormatterTopic.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/authentication/AuthenticatorBean.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/AcknowledgementResponse.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/AmendedIDFNumber.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/FaultResponse.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/IDFAcknowledgement.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/IDFDetailsRequest.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/IDFExpiryDate.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/IDFNumbersRequest.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/IDFNumbersResponse.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/IDFReference.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/Request.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/Constants.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/FISIDFProperties.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/ttModels/Acknowledgement.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/ttModels/IDFDetailsResponse.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/ttModels/StringToXmlGregorianCalendar.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/IDFDetailsResponse.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/ttModels/ttXml/ApplicantDefinedThirdPartyDetails.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/ttModels/ttXml/ApprovalDetails.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/ttModels/ttXml/ApprovalHistory.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/ttModels/ttXml/Attachments.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/ttModels/ttXml/CDConsignee.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/ttModels/ttXml/CDConsignor.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/ttModels/ttXml/CDExporter.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/ttModels/ttXml/CDHdrNonStandard.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/ttModels/ttXml/CDHeaderOne.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/ttModels/ttXml/CDImporter.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/ttModels/ttXml/CDProduct1.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/ttModels/ttXml/CDProduct2.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/ttModels/ttXml/CDProductDetails.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/ttModels/ttXml/CDStandard.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/ttModels/ttXml/CDStandardTwo.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/ttModels/ttXml/ConsignmentDocDetails.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/ttModels/ttXml/ConsignmentDocument.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/ttModels/ttXml/DocumentDetails.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/ttModels/ttXml/DocumentExchangeDetails.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/ttModels/ttXml/DocumentHeader.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/ttModels/ttXml/DocumentReference.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/ttModels/ttXml/DocumentSummary.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/ttModels/ttXml/DocumentTypeCode.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/ttModels/ttXml/ItemDetails.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/ttModels/ttXml/NotifyPartyDetails.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/ttModels/ttXml/Quantity.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/ttModels/ttXml/ServiceProvider.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/ttModels/ttXml/SupplementryQuantity.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/ttModels/ttXml/ThirdParties.java" />
+        <option value="$PROJECT_DIR$/src/com/ocpjp/package3/ConcurrencyTopic.java" />
+        <option value="$PROJECT_DIR$/src/com/ocpjp/package2/OOPprinciples.java" />
+        <option value="$PROJECT_DIR$/src/com/ocpjp/package2/JavaRules.java" />
+        <option value="$PROJECT_DIR$/src/com/ocpjp/package3/ConcurrencyThreadPoolExecutor.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/gtns/fis/SOAPRequestCreator.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/xmlstore/IDFstatus.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/resources/META-INF/orm.xml" />
+        <option value="$PROJECT_DIR$/src/com/ocpjp/package1/JavaRules.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/validation/FacesError.java" />
+        <option value="$PROJECT_DIR$/src/com/ocpjp/package2/StringsAndRegEx.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/MarshallerService.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/build.properties.0" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/resources/WEB-INF/components.xml.nonjosso" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/resources/WEB-INF/components.xml.josso" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/IDFAcknowledgementResponses.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/deployed-jars-ear.list" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/tfis/MdaLocator.java" />
+        <option value="$PROJECT_DIR$/src/com/ocpjp/package2/other/TestingPackaging.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/FisWsdlServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/timer/ScheduleController.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/SimpleDocumentHome.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/validation/ErrorHandlingApplication.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/main/com/webbfontaine/valuewebb/model/constants/Constants.java" />
+        <option value="$PROJECT_DIR$/src/com/ocpjp/package1/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/ocpjp/package1/AnnotationsTopic.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/resources/WEB-INF/components.xml" />
+        <option value="$PROJECT_DIR$/src/com/ocpjp/package2/ArraysTopic.java" />
+        <option value="$PROJECT_DIR$/src/com/ocpjp/package2/CollectionsTopic.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/VWEntityHome.java" />
+        <option value="$PROJECT_DIR$/src/com/ocpjp/package1/CollectionsTopic.java" />
+        <option value="$PROJECT_DIR$/src/com/ocpjp/package1/ForwardingSet.java" />
+        <option value="$PROJECT_DIR$/src/com/ocpjp/package1/ObservableSet.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/FisWsdlService.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/exploded-archives/valuewebb.ear/valuewebb_war/ttPages/TtInvEdit.xhtml" />
+        <option value="$PROJECT_DIR$/src/com/ocpjp/package2/SerializationTopic.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/FisWsdlServiceFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/ocpjp/package2/Sample.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/TtGenHome.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/JaxBUtil.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/xmlstore/TTXmlStoreScheduler.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/validation/MessageHandling.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/view/ttPages/TtInvEdit.xhtml" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/main/com/webbfontaine/valuewebb/model/TtInv.java" />
+        <option value="$PROJECT_DIR$/src/com/ocpjp/package1/OOPprinciples.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/main/com/webbfontaine/valuewebb/model/validators/tt/TTDateValidator.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/main/com/webbfontaine/valuewebb/model/TtGen.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/main/com/webbfontaine/valuewebb/model/TtTrans.java" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/app-build.properties" />
+        <option value="$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/report/AirCargoReporter.java" />
+        <option value="$PROJECT_DIR$/com/kev/trials/ocpjp/package1/src/AnnotationsTopic.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="false" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1441" />
+    <option name="width" value="1268" />
+    <option name="height" value="895" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages ProjectPane="false" />
+      <abbreviatePackageNames />
+      <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Trials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Trials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="valuewebb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Trials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="valuewebb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Trials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="valuewebb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Trials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="valuewebb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Trials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Trials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Trials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Trials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webbfontaine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Trials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Trials" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ocpjp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ValueWebb/valuewebb/lib" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="options.lastSelected" value="fileTemplates" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="140" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="138" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="139" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="748" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="141" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="138" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="141" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="745" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="false" />
+  </component>
+  <component name="ReadonlyStatusHandler">
+    <option name="SHOW_DIALOG" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.webbfontaine.valuewebb.validation" />
+      <recent name="com.webbfontaine.valuewebb.action.tt.fisidf.marshall.ttModels" />
+      <recent name="com.webbfontaine.valuewebb.action.tt.fisidf.marshall" />
+      <recent name="com.webbfontaine.valuewebb.action.tt.fisidf.marshaller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\projects\Trials\com\kev\trials" />
+      <recent name="C:\projects\ValueWebb\valuewebb\src\hot\com\webbfontaine\valuewebb\action\tt\fisidf\marshall" />
+      <recent name="C:\projects\ValueWebb\valuewebb\src\hot\com\webbfontaine\valuewebb\action\tt\fisidf\marshall\ttModels\ttObjects" />
+      <recent name="C:\projects\ValueWebb\valuewebb\src\hot\com\webbfontaine\valuewebb\action\tt\fisidf\marshall\ttModels\ttgen" />
+      <recent name="C:\projects\ValueWebb\valuewebb\src\hot\com\webbfontaine\valuewebb\action\tt\fisidf" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\projects\Trials\com\kev\trials\ocpjp\package1\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JBoss Server.JBoss Server GA CI">
+    <configuration default="false" name="AnnotationsTopic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="chronon">
+        <include>
+          <pattern>
+            <option name="PATTERN" value="com.ocpjp.package1.**" />
+            <option name="ENABLED" value="true" />
+          </pattern>
+        </include>
+      </extension>
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.ocpjp.package1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.ocpjp.package1.AnnotationsTopic" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Trials" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ArraysTopic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="chronon">
+        <include>
+          <pattern>
+            <option name="PATTERN" value="com.ocpjp.package2.**" />
+            <option name="ENABLED" value="true" />
+          </pattern>
+        </include>
+      </extension>
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.ocpjp.package2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.ocpjp.package2.ArraysTopic" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Trials" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SerializationTopic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="chronon">
+        <include>
+          <pattern>
+            <option name="PATTERN" value="com.ocpjp.package2.**" />
+            <option name="ENABLED" value="true" />
+          </pattern>
+        </include>
+      </extension>
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.ocpjp.package2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.ocpjp.package2.SerializationTopic" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Trials" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Sample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="chronon">
+        <include>
+          <pattern>
+            <option name="PATTERN" value="com.ocpjp.package2.**" />
+            <option name="ENABLED" value="true" />
+          </pattern>
+        </include>
+      </extension>
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.ocpjp.package2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.ocpjp.package2.Sample" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Trials" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="OOPprinciples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="chronon">
+        <include>
+          <pattern>
+            <option name="PATTERN" value="com.ocpjp.package1.**" />
+            <option name="ENABLED" value="true" />
+          </pattern>
+        </include>
+      </extension>
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.ocpjp.package1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.ocpjp.package1.OOPprinciples" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Trials" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JBossConfiguration" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="transportHostId" />
+        </data>
+      </server-settings>
+      <predefined_log_file id="JBoss" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JBossConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="SERVER" value="" />
+        <option name="BINDING_SET_NAME" value="" />
+        <option name="USERNAME" value="" />
+        <option name="PASSWORD" value="" />
+      </server-settings>
+      <predefined_log_file id="JBoss" enabled="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="false" name="JBoss Server GA CI" type="JBossConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="JBoss 5.1.0.GA" ALTERNATIVE_JRE_ENABLED="false" ALTERNATIVE_JRE_PATH="">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8084/valuewebb" />
+      <option name="COMMON_VM_ARGUMENTS" value="-ea -Xms128M -Xmx2048M -XX:MaxPermSize=1024M -XX:-UseSplitVerifier" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="valuewebb">
+          <settings />
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="SERVER" value="default" />
+        <option name="BINDING_SET_NAME" value="ports-default" />
+        <option name="USERNAME" value="" />
+        <option name="PASSWORD" value="" />
+      </server-settings>
+      <predefined_log_file id="JBoss" enabled="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Chronon" />
+      <RunnerSettings RunnerId="Cover" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54936" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="JRebel Debug">
+        <option name="DEBUG_PORT" value="54939" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="JRebel Executor" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Chronon">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="false" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Executor">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="false" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="Make" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="false" name="JBoss Server Remote Debug" type="Remote" factoryName="Remote">
+      <module name="valuewebb" />
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="8787" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="8787" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <ConfigurationWrapper RunnerId="Debug" />
+      <method />
+    </configuration>
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="JBoss Server.JBoss Server GA CI" />
+      <item index="1" class="java.lang.String" itemvalue="Remote.JBoss Server Remote Debug" />
+      <item index="2" class="java.lang.String" itemvalue="Application.AnnotationsTopic" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ArraysTopic" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SerializationTopic" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Sample" />
+      <item index="6" class="java.lang.String" itemvalue="Application.OOPprinciples" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.AnnotationsTopic" />
+        <item index="1" class="java.lang.String" itemvalue="Application.OOPprinciples" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Sample" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SerializationTopic" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ArraysTopic" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="StatisticProjectComponent">
+    <option name="excludeCompilerOutput" value="true" />
+    <option name="excludeIdea9ArtifactDirectory" value="true" />
+    <option name="excludeTargetDirectories" value="true" />
+    <option name="activateWhenOpenProject" value="true" />
+    <option name="excludedDirectories">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <option name="fileTypes" value="class;svn-base;svn-work;Extra;gif;png;jpg;jpeg;bmp;tga;tiff;ear;war;zip;jar;iml;iws;ipr;bz2;gz;" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19ec3e64-9617-4224-bdf7-9d61c9925698" name="Default" comment="" />
+      <created>1399255504913</created>
+      <updated>1399255504913</updated>
+      <workItem from="1399255506257" duration="1298000" />
+      <workItem from="1399256809042" duration="43000" />
+      <workItem from="1399256854676" duration="1216000" />
+      <workItem from="1399261635534" duration="7331000" />
+      <workItem from="1399341716336" duration="4413000" />
+      <workItem from="1399348661988" duration="13000" />
+      <workItem from="1399348706375" duration="6000" />
+      <workItem from="1399348734182" duration="2688000" />
+      <workItem from="1399426936648" duration="19347000" />
+      <workItem from="1399463971877" duration="211000" />
+      <workItem from="1399508514202" duration="11052000" />
+      <workItem from="1399599789790" duration="1435000" />
+      <workItem from="1399615474763" duration="1806000" />
+      <workItem from="1399860586688" duration="5152000" />
+      <workItem from="1399871838133" duration="4130000" />
+      <workItem from="1399962715308" duration="1459000" />
+      <workItem from="1399964583341" duration="268000" />
+      <workItem from="1399965078587" duration="384000" />
+      <workItem from="1399965804440" duration="1166000" />
+      <workItem from="1399967198012" duration="854000" />
+      <workItem from="1399968708050" duration="128000" />
+      <workItem from="1399969116962" duration="8660000" />
+      <workItem from="1399986644960" duration="885000" />
+      <workItem from="1400031338705" duration="1342000" />
+      <workItem from="1400034054593" duration="3562000" />
+      <workItem from="1400038601614" duration="372000" />
+      <workItem from="1400039288297" duration="12422000" />
+      <workItem from="1400122124867" duration="4246000" />
+      <workItem from="1400130224654" duration="13318000" />
+      <workItem from="1400227555745" duration="2058000" />
+      <workItem from="1400461026491" duration="12983000" />
+      <workItem from="1400553196456" duration="7104000" />
+      <workItem from="1400647084041" duration="9282000" />
+      <workItem from="1400725065484" duration="19879000" />
+      <workItem from="1400807578301" duration="4215000" />
+      <workItem from="1401069140453" duration="4642000" />
+      <workItem from="1401088918134" duration="2607000" />
+      <workItem from="1401155023719" duration="9586000" />
+      <workItem from="1401242643983" duration="18393000" />
+      <workItem from="1401331967423" duration="2352000" />
+      <workItem from="1401416796581" duration="9714000" />
+      <workItem from="1401673748618" duration="11521000" />
+      <workItem from="1401767324840" duration="1000" />
+      <workItem from="1401774812543" duration="19371000" />
+      <workItem from="1401846227554" duration="12893000" />
+      <workItem from="1401930787002" duration="27226000" />
+      <workItem from="1402019496126" duration="13811000" />
+      <workItem from="1402279297225" duration="18180000" />
+      <workItem from="1402363858631" duration="18474000" />
+      <workItem from="1402401222183" duration="2751000" />
+      <workItem from="1402451852395" duration="13962000" />
+      <workItem from="1402554433606" duration="2123000" />
+      <workItem from="1402879514622" duration="2501000" />
+      <workItem from="1402981643488" duration="973000" />
+      <workItem from="1403056211124" duration="6583000" />
+      <workItem from="1403232305557" duration="18000" />
+      <workItem from="1403748522171" duration="1967000" />
+      <workItem from="1408431138808" duration="237000" />
+      <workItem from="1410267346278" duration="216000" />
+      <workItem from="1410267587802" duration="22323000" />
+      <workItem from="1410414157965" duration="833000" />
+      <workItem from="1410415026309" duration="31000" />
+      <workItem from="1410415569138" duration="206000" />
+      <workItem from="1410415823249" duration="11615000" />
+      <workItem from="1410494091447" duration="19783000" />
+      <workItem from="1410752231882" duration="26922000" />
+      <workItem from="1410840355681" duration="27989000" />
+      <workItem from="1410926358814" duration="24989000" />
+      <workItem from="1410954104488" duration="270000" />
+      <workItem from="1410954434503" duration="3987000" />
+      <workItem from="1411014066054" duration="21741000" />
+      <workItem from="1411357399565" duration="18651000" />
+      <workItem from="1411387648192" duration="8862000" />
+      <workItem from="1411452678764" duration="243000" />
+      <workItem from="1411452940595" duration="114000" />
+      <workItem from="1411453655726" duration="278000" />
+      <workItem from="1411453969034" duration="256000" />
+      <workItem from="1411454240206" duration="364000" />
+      <workItem from="1411455108415" duration="556000" />
+      <workItem from="1411455702584" duration="13771000" />
+      <workItem from="1411531663263" duration="685000" />
+      <workItem from="1411539089156" duration="19314000" />
+      <workItem from="1411618077396" duration="22541000" />
+      <workItem from="1411703422960" duration="26480000" />
+      <workItem from="1411735627770" duration="891000" />
+      <workItem from="1411962082606" duration="29707000" />
+      <workItem from="1412049511115" duration="21898000" />
+      <workItem from="1412135896350" duration="45131000" />
+      <workItem from="1412310380212" duration="16089000" />
+      <workItem from="1412654343990" duration="15420000" />
+      <workItem from="1412743450406" duration="18352000" />
+      <workItem from="1412831371868" duration="20442000" />
+      <workItem from="1412913410916" duration="16418000" />
+      <workItem from="1413172719356" duration="28861000" />
+      <workItem from="1413258222964" duration="23987000" />
+      <workItem from="1413347064405" duration="25325000" />
+      <workItem from="1413432174522" duration="24258000" />
+      <workItem from="1413507612228" duration="29647000" />
+      <workItem from="1413779009978" duration="29654000" />
+      <workItem from="1413865763096" duration="28654000" />
+      <workItem from="1413937738707" duration="32404000" />
+      <workItem from="1414039060535" duration="11716000" />
+      <workItem from="1414054788261" duration="9380000" />
+      <workItem from="1414124931909" duration="26353000" />
+      <workItem from="1414383594522" duration="26088000" />
+      <workItem from="1414477484182" duration="48037000" />
+      <workItem from="1414641100402" duration="26772000" />
+      <workItem from="1414726106845" duration="17884000" />
+      <workItem from="1414985029207" duration="24148000" />
+      <workItem from="1415074240454" duration="24511000" />
+      <workItem from="1415159349806" duration="22926000" />
+      <workItem from="1415247860829" duration="67000" />
+      <workItem from="1415248795110" duration="13792000" />
+      <workItem from="1415272730259" duration="5302000" />
+      <workItem from="1415334998487" duration="10840000" />
+      <workItem from="1415357308581" duration="6579000" />
+      <workItem from="1415593086436" duration="28204000" />
+      <workItem from="1415677503039" duration="26463000" />
+      <workItem from="1415764941968" duration="24647000" />
+      <workItem from="1415849774338" duration="28458000" />
+      <workItem from="1415935734560" duration="25089000" />
+      <workItem from="1416196358381" duration="23608000" />
+      <workItem from="1416282938164" duration="24916000" />
+      <workItem from="1416368334517" duration="25655000" />
+      <workItem from="1416455478491" duration="13542000" />
+      <workItem from="1416543005180" duration="15027000" />
+      <workItem from="1416798050395" duration="29354000" />
+      <workItem from="1416890096243" duration="21555000" />
+      <workItem from="1416975469493" duration="27288000" />
+      <workItem from="1417059745192" duration="20003000" />
+      <workItem from="1417149146183" duration="13068000" />
+      <workItem from="1417407041457" duration="12224000" />
+      <workItem from="1417422333853" duration="14682000" />
+      <workItem from="1417496172867" duration="16193000" />
+      <workItem from="1417520426477" duration="1251000" />
+      <workItem from="1417580884207" duration="15231000" />
+      <workItem from="1417669008026" duration="4887000" />
+      <workItem from="1417677093528" duration="13184000" />
+      <workItem from="1417754657491" duration="13699000" />
+      <workItem from="1418013625231" duration="1773000" />
+      <workItem from="1418017990855" duration="10885000" />
+      <workItem from="1418098575817" duration="18768000" />
+      <workItem from="1418184473516" duration="21073000" />
+      <workItem from="1418276658013" duration="8151000" />
+      <workItem from="1418290159307" duration="7162000" />
+      <workItem from="1418363622593" duration="19927000" />
+      <workItem from="1418619288911" duration="31348000" />
+      <workItem from="1418794173033" duration="12644000" />
+      <workItem from="1418965723378" duration="11728000" />
+      <workItem from="1419229777764" duration="16636000" />
+      <workItem from="1419312005469" duration="2675000" />
+      <workItem from="1419829739581" duration="17990000" />
+      <workItem from="1420434674889" duration="5565000" />
+      <workItem from="1420452944349" duration="308000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1950145000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1441" y="0" width="1268" height="895" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32722512" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32984293" sideWeight="0.49917218" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="JavaEE:App" active="false" anchor="left" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35347682" sideWeight="0.50065017" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35182118" sideWeight="0.50065017" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.246281" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32781458" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32722512" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="18" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32984293" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294702" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="JSF" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32858595" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32591623" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32853404" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23140496" sideWeight="0.4986911" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.31937173" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="1452" y="99" width="1340" height="750" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32722512" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29973823" sideWeight="0.49956483" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3519914" sideWeight="0.50065017" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="JRebel" active="false" anchor="left" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35392156" sideWeight="0.50065017" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Seam" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35099337" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960325" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="EJB" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294702" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289256" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.39983442" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4892384" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46335077" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Chronon" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32769832" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31806284" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32769832" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="JavaEE:App" active="false" anchor="left" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35392156" sideWeight="0.50065017" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3519914" sideWeight="0.50065017" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24668874" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3281114" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32722512" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="18" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29973823" sideWeight="0.5004352" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960325" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="JSF" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32858595" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32769832" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899868" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23178808" sideWeight="0.4986911" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4892384" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.31937173" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="1863" y="603" width="1121" height="750" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32722512" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46335077" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29973823" sideWeight="0.49956483" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3519914" sideWeight="0.50065017" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="JRebel" active="false" anchor="left" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35392156" sideWeight="0.50065017" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Chronon" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32769832" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
+      <window_info id="Seam" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3516101" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31806284" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960325" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="EJB" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960325" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/PdHome.java</url>
+          <line>335</line>
+          <properties />
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/TtGenHome.java</url>
+          <line>125</line>
+          <properties />
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/TtGenHome.java</url>
+          <line>649</line>
+          <properties />
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/TtGenHome.java</url>
+          <line>768</line>
+          <properties />
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/TtGenHome.java</url>
+          <line>226</line>
+          <properties />
+          <option name="timeStamp" value="269" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/TtGenHome.java</url>
+          <line>164</line>
+          <properties />
+          <option name="timeStamp" value="270" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/TtGenHome.java</url>
+          <line>163</line>
+          <properties />
+          <option name="timeStamp" value="271" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/TtGenHome.java</url>
+          <line>656</line>
+          <properties />
+          <option name="timeStamp" value="290" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/TtGenHome.java</url>
+          <line>655</line>
+          <properties />
+          <option name="timeStamp" value="291" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/TtGenHome.java</url>
+          <line>654</line>
+          <properties />
+          <option name="timeStamp" value="292" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/TtGenHome.java</url>
+          <line>657</line>
+          <properties />
+          <option name="timeStamp" value="293" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/TtGenHome.java</url>
+          <line>650</line>
+          <properties />
+          <option name="timeStamp" value="294" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="303" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+    <buildFile url="file://$PROJECT_DIR$/../ValueWebb/valuewebb/build.xml">
+      <targetFilters>
+        <filter targetName="init-sonar" isVisible="true" />
+        <filter targetName="copyProp0" isVisible="true" />
+        <filter targetName="init.app.config" isVisible="false" />
+        <filter targetName="init" isVisible="true" />
+        <filter targetName="groovy.compile" isVisible="false" />
+        <filter targetName="groovy.copy" isVisible="false" />
+        <filter targetName="clean.model" isVisible="false" />
+        <filter targetName="compile" isVisible="true" />
+        <filter targetName="copyclasses" isVisible="true" />
+        <filter targetName="instrument" isVisible="false" />
+        <filter targetName="jar" isVisible="true" />
+        <filter targetName="generateBeanJSTokens" isVisible="false" />
+        <filter targetName="war" isVisible="true" />
+        <filter targetName="ear" isVisible="true" />
+        <filter targetName="clear-profile-artifacts" isVisible="true" />
+        <filter targetName="stage" isVisible="false" />
+        <filter targetName="archive" isVisible="true" />
+        <filter targetName="datasource" isVisible="false" />
+        <filter targetName="remote-datasource" isVisible="false" />
+        <filter targetName="explode" isVisible="true" />
+        <filter targetName="unexplode" isVisible="true" />
+        <filter targetName="reexplode" isVisible="true" />
+        <filter targetName="check-deployed" isVisible="true" />
+        <filter targetName="restart-exploded" isVisible="true" />
+        <filter targetName="restart-deployed" isVisible="true" />
+        <filter targetName="restart" isVisible="true" />
+        <filter targetName="deploy" isVisible="true" />
+        <filter targetName="deploy-clean" isVisible="false" />
+        <filter targetName="undeploy" isVisible="true" />
+        <filter targetName="redeploy" isVisible="true" />
+        <filter targetName="clean" isVisible="true" />
+        <filter targetName="remote-deploy" isVisible="true" />
+        <filter targetName="compiletest" isVisible="true" />
+        <filter targetName="groovy.compiletest" isVisible="true" />
+        <filter targetName="copytestclasses" isVisible="true" />
+        <filter targetName="buildtest" isVisible="true" />
+        <filter targetName="test" isVisible="true" />
+        <filter targetName="javadoc" isVisible="false" />
+        <filter targetName="validateConfiguration" isVisible="false" />
+        <filter targetName="validate" isVisible="true" />
+        <filter targetName="purge" isVisible="true" />
+        <filter targetName="check-runtime" isVisible="false" />
+        <filter targetName="check-binding" isVisible="false" />
+        <filter targetName="bind" isVisible="false" />
+        <filter targetName="jossify" isVisible="false" />
+        <filter targetName="unjossify" isVisible="false" />
+        <filter targetName="jaspercompile" isVisible="true" />
+        <filter targetName="jasper-clean" isVisible="true" />
+        <filter targetName="updateVersion" isVisible="false" />
+        <filter targetName="sonar-clean" isVisible="false" />
+        <filter targetName="sonar" isVisible="false" />
+        <filter targetName="sonar-all" isVisible="false" />
+        <filter targetName="resolve.sonar.libraries" isVisible="false" />
+        <filter targetName="ivy.clean" isVisible="false" />
+        <filter targetName="ivy.init" isVisible="false" />
+        <filter targetName="mvn.init" isVisible="false" />
+        <filter targetName="ivy.info" isVisible="false" />
+        <filter targetName="ivy.report.compile" isVisible="false" />
+        <filter targetName="ivy.report.runtime" isVisible="false" />
+        <filter targetName="init.contrib" isVisible="false" />
+        <filter targetName="init.groovy" isVisible="false" />
+        <filter targetName="init-jacoco" isVisible="false" />
+        <filter targetName="retrieve.ivy.path" isVisible="false" />
+        <filter targetName="init.xmltask" isVisible="false" />
+        <filter targetName="init.fmpp" isVisible="false" />
+        <filter targetName="init.jasperserver" isVisible="false" />
+        <filter targetName="init.wf" isVisible="false" />
+        <filter targetName="ivy.pom" isVisible="false" />
+        <filter targetName="resolve.internal" isVisible="false" />
+        <filter targetName="resolve" isVisible="true" />
+        <filter targetName="sources" isVisible="true" />
+        <filter targetName="resolve.compile" isVisible="false" />
+        <filter targetName="resolve.ant" isVisible="false" />
+        <filter targetName="resolve.ant.logback" isVisible="false" />
+        <filter targetName="resolve.runtime" isVisible="false" />
+        <filter targetName="resolve.test.compile" isVisible="false" />
+        <filter targetName="resolve.test.runtime" isVisible="false" />
+        <filter targetName="resolve.groovy" isVisible="false" />
+      </targetFilters>
+      <expanded value="true" />
+    </buildFile>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/DevelopmentTools/jboss-seam-2.2.2.Final/jboss-seam-2.2.2.Final/lib/jboss-seam.jar!/org/jboss/seam/annotations/async/package-info.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.050670642" vertical-offset="0" max-vertical-offset="671">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/DevelopmentTools/jboss-seam-2.2.2.Final/jboss-seam-2.2.2.Final/lib/jboss-seam.jar!/org/jboss/seam/annotations/async/Asynchronous.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17734724" vertical-offset="0" max-vertical-offset="671">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_01/src.zip!/java/util/AbstractCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="781" max-vertical-offset="7803">
+          <caret line="60" column="28" selection-start-line="60" selection-start-column="28" selection-end-line="60" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_01/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1903" max-vertical-offset="7854">
+          <caret line="126" column="42" selection-start-line="126" selection-start-column="39" selection-end-line="126" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_01/src.zip!/java/util/NavigableSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="2403" max-vertical-offset="4964">
+          <caret line="188" column="12" selection-start-line="188" selection-start-column="4" selection-end-line="188" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_01/src.zip!/java/lang/Iterable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
+          <caret line="44" column="18" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ocpjp/package1/CollectionsTopic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7824268" vertical-offset="1785" max-vertical-offset="3910">
+          <caret line="140" column="0" selection-start-line="140" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ocpjp/package2/CollectionsTopic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.6638772" vertical-offset="1986" max-vertical-offset="3825">
+          <caret line="189" column="11" selection-start-line="189" selection-start-column="11" selection-end-line="189" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_01/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40243903" vertical-offset="5381" max-vertical-offset="19431">
+          <caret line="375" column="20" selection-start-line="375" selection-start-column="20" selection-end-line="375" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/authentication/Authenticator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2303523" vertical-offset="0" max-vertical-offset="738">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/authentication/AuthenticatorBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.9089655" vertical-offset="656" max-vertical-offset="2312">
+          <caret line="143" column="35" selection-start-line="143" selection-start-column="35" selection-end-line="143" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ocpjp/package1/ForwardingSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
+          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/DevelopmentTools/jboss-seam-2.2.2.Final/jboss-seam-2.2.2.Final/lib/jboss-seam.jar!/org/jboss/seam/framework/PersistenceController.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.049132947" vertical-offset="0" max-vertical-offset="692">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_01/src.zip!/java/util/concurrent/atomic/AtomicReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="1556" max-vertical-offset="2601">
+          <caret line="112" column="25" selection-start-line="112" selection-start-column="25" selection-end-line="112" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/resources/WEB-INF/components.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2872629" vertical-offset="2865" max-vertical-offset="3774">
+          <caret line="181" column="75" selection-start-line="181" selection-start-column="75" selection-end-line="181" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_01/src.zip!/java/io/ObjectInputValidation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="129" max-vertical-offset="867">
+          <caret line="34" column="42" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_01/src.zip!/java/io/ObjectInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46205962" vertical-offset="8669" max-vertical-offset="57783">
+          <caret line="572" column="16" selection-start-line="572" selection-start-column="16" selection-end-line="572" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ocpjp/package2/SerializationTopic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="621" max-vertical-offset="1734">
+          <caret line="62" column="59" selection-start-line="62" selection-start-column="59" selection-end-line="62" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_01/src.zip!/java/lang/ThreadGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.50406504" vertical-offset="13177" max-vertical-offset="18394">
+          <caret line="811" column="60" selection-start-line="811" selection-start-column="60" selection-end-line="811" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/timer/ScheduleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17931035" vertical-offset="941" max-vertical-offset="1955">
+          <caret line="80" column="0" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_01/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="2940" max-vertical-offset="9027">
+          <caret line="212" column="28" selection-start-line="212" selection-start-column="28" selection-end-line="212" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_01/src.zip!/java/util/Hashtable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35704324" vertical-offset="15401" max-vertical-offset="18207">
+          <caret line="961" column="9" selection-start-line="961" selection-start-column="9" selection-end-line="961" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_01/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="10890" max-vertical-offset="16592">
+          <caret line="680" column="22" selection-start-line="680" selection-start-column="22" selection-end-line="680" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ocpjp/package2/Sample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="935">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/DevelopmentTools/jboss-seam-2.2.2.Final/jboss-seam-2.2.2.Final/lib/persistence-api.jar!/javax/persistence/Lob.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17196532" vertical-offset="0" max-vertical-offset="692">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/main/com/webbfontaine/valuewebb/model/TtDoc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1068" max-vertical-offset="1785">
+          <caret line="124" column="0" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_01/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="50657" max-vertical-offset="62390">
+          <caret line="3253" column="5" selection-start-line="3253" selection-start-column="5" selection-end-line="3253" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ocpjp/package1/ObservableSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="1020">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../ValueWebb/valuewebb/lib/jbpm-commons.jar!/com/webbfontaine/ellipse/jbpm/BPMProcessManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2992" max-vertical-offset="3230">
+          <caret line="176" column="32" selection-start-line="176" selection-start-column="32" selection-end-line="176" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/DevelopmentTools/jboss-seam-2.2.2.Final/jboss-seam-2.2.2.Final/lib/jboss-seam.jar!/org/jboss/seam/framework/MutableController.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31936416" vertical-offset="0" max-vertical-offset="692">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/DevelopmentTools/jboss-seam-2.2.2.Final/jboss-seam-2.2.2.Final/lib/jboss-seam.jar!/org/jboss/seam/framework/Home.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15022092" vertical-offset="0" max-vertical-offset="3757">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/DevelopmentTools/jboss-seam-2.2.2.Final/jboss-seam-2.2.2.Final/lib/jboss-seam.jar!/org/jboss/seam/framework/EntityHome.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12283237" vertical-offset="0" max-vertical-offset="1785">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/SimpleDocumentHome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.023448275" vertical-offset="187" max-vertical-offset="5899">
+          <caret line="36" column="80" selection-start-line="36" selection-start-column="80" selection-end-line="36" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_01/src.zip!/javax/xml/stream/events/Characters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1394">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_01/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="117725">
+          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/FisWsdlService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/FisWsdlServiceFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="492" max-vertical-offset="7344">
+          <caret line="90" column="61" selection-start-line="90" selection-start-column="61" selection-end-line="90" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/fisidf/marshall/JaxBUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24128312" vertical-offset="286" max-vertical-offset="1088">
+          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/view/PdListCEPS.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1122" max-vertical-offset="4012">
+          <caret line="73" column="16" selection-start-line="73" selection-start-column="16" selection-end-line="73" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../ValueWebb/valuewebb/lib/richfaces-ui.jar!/META-INF/ajax4jsf.tld">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3324138" vertical-offset="63050" max-vertical-offset="66079">
+          <caret line="3723" column="18" selection-start-line="3723" selection-start-column="18" selection-end-line="3723" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/validation/ErrorHandling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1102" max-vertical-offset="6545">
+          <caret line="109" column="15" selection-start-line="109" selection-start-column="15" selection-end-line="109" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/DevelopmentTools/jboss-seam-2.2.2.Final/jboss-seam-2.2.2.Final/lib/jsf-api.jar!/javax/faces/component/UIComponent.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9537167" vertical-offset="0" max-vertical-offset="4233">
+          <caret line="55" column="10" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/validation/MessageHandling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2309" max-vertical-offset="3961">
+          <caret line="172" column="33" selection-start-line="172" selection-start-column="33" selection-end-line="172" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/DocumentHome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1901" max-vertical-offset="5270">
+          <caret line="159" column="35" selection-start-line="159" selection-start-column="35" selection-end-line="159" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/VWEntityHome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1700">
+          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../ValueWebb/valuewebb/lib/jboss-envers.jar!/org/hibernate/envers/RevisionListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.049132947" vertical-offset="0" max-vertical-offset="692">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/main/com/webbfontaine/valuewebb/model/envers/Revision.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.56485355" vertical-offset="762" max-vertical-offset="1479">
+          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/envers/EntityRevisionListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="122" max-vertical-offset="1292">
+          <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/view/PdEdit.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="13664" max-vertical-offset="15776">
+          <caret line="817" column="67" selection-start-line="817" selection-start-column="67" selection-end-line="817" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/PdHome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7667">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/main/com/webbfontaine/valuewebb/model/Pd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="12563" max-vertical-offset="13634">
+          <caret line="739" column="41" selection-start-line="739" selection-start-column="41" selection-end-line="739" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/main/com/webbfontaine/valuewebb/model/template/Template.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="6236" max-vertical-offset="7310">
+          <caret line="544" column="5" selection-start-line="544" selection-start-column="5" selection-end-line="544" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/props/PropertyUpdater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
+          <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/DevelopmentTools/jboss-seam-2.2.2.Final/jboss-seam-2.2.2.Final/lib/gwt-servlet.jar!/com/google/gwt/i18n/client/Constants.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27868852" vertical-offset="0" max-vertical-offset="1173">
+          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/view/js/disableEnterKey.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
+          <caret line="0" column="31" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/view/HolidaysCalendarEdit.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="5100">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/TtUIHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="732" max-vertical-offset="2397">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_01/src.zip!/java/util/Calendar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="6245" max-vertical-offset="46206">
+          <caret line="442" column="45" selection-start-line="442" selection-start-column="45" selection-end-line="442" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ocpjp/package1/OOPprinciples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3264">
+          <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/TtGenHome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="13543" max-vertical-offset="17068">
+          <caret line="981" column="61" selection-start-line="981" selection-start-column="61" selection-end-line="981" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/view/ttPages/TtInvEdit.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32985073" vertical-offset="0" max-vertical-offset="15045">
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/action/tt/xmlstore/TTXmlStoreScheduler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3485" max-vertical-offset="4386">
+          <caret line="248" column="79" selection-start-line="248" selection-start-column="79" selection-end-line="248" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/view/TtGenEdit.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2272" max-vertical-offset="6120">
+          <caret line="148" column="47" selection-start-line="148" selection-start-column="47" selection-end-line="148" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/DevelopmentTools/jboss-seam-2.2.2.Final/jboss-seam-2.2.2.Final/lib/hibernate-validator.jar!/org/hibernate/validator/Valid.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1891892" vertical-offset="0" max-vertical-offset="629">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/view/ttPages/TtTransEdit.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1088" max-vertical-offset="8126">
+          <caret line="64" column="59" selection-start-line="64" selection-start-column="59" selection-end-line="64" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ocpjp/package1/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ocpjp/package1/AnnotationsTopic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="107" max-vertical-offset="833">
+          <caret line="44" column="30" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/DevelopmentTools/jboss-seam-2.2.2.Final/jboss-seam-2.2.2.Final/lib/hibernate-validator.jar!/org/hibernate/validator/Validator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="272">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/main/com/webbfontaine/valuewebb/model/validators/tt/TTDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/main/com/webbfontaine/valuewebb/model/validators/DatesValidatorCEPS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1105">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/main/com/webbfontaine/valuewebb/model/validators/tt/TTDateValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="663">
+          <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/main/com/webbfontaine/valuewebb/model/TtTrans.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="3672">
+          <caret line="102" column="40" selection-start-line="102" selection-start-column="40" selection-end-line="102" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/report/AirCargoReportBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32249323" vertical-offset="0" max-vertical-offset="748">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../ValueWebb/valuewebb/lib/poi.jar!/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13821138" vertical-offset="0" max-vertical-offset="738">
+          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../ValueWebb/valuewebb/lib/poi.jar!/org/apache/poi/hssf/usermodel/HSSFWorkbook.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34428573" vertical-offset="1629" max-vertical-offset="18445">
+          <caret line="176" column="9" selection-start-line="176" selection-start-column="9" selection-end-line="176" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/DevelopmentTools/jboss-seam-2.2.2.Final/jboss-seam-2.2.2.Final/lib/servlet-api.jar!/javax/servlet/ServletOutputStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09537167" vertical-offset="0" max-vertical-offset="1938">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_01/src.zip!/java/io/OutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6314363" vertical-offset="1506" max-vertical-offset="2295">
+          <caret line="141" column="60" selection-start-line="141" selection-start-column="60" selection-end-line="142" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/main/com/webbfontaine/valuewebb/model/util/PrintUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6565517" vertical-offset="153" max-vertical-offset="986">
+          <caret line="49" column="25" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/report/invoice/StyleCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2303523" vertical-offset="0" max-vertical-offset="1938">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../ValueWebb/valuewebb/lib/poi.jar!/org/apache/poi/ss/usermodel/CellStyle.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.047685836" vertical-offset="0" max-vertical-offset="2465">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/authentication/AuthenticatorBeanDev.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="507" max-vertical-offset="3859">
+          <caret line="66" column="36" selection-start-line="66" selection-start-column="36" selection-end-line="66" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../ValueWebb/valuewebb/lib/poi.jar!/org/apache/poi/ss/usermodel/Sheet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.72" vertical-offset="0" max-vertical-offset="3842">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/app-build.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38636363" vertical-offset="0" max-vertical-offset="1207">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/main/com/webbfontaine/valuewebb/model/util/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5641" max-vertical-offset="11509">
+          <caret line="407" column="47" selection-start-line="407" selection-start-column="47" selection-end-line="407" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/app-build.properties.KEVCI">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30044183" vertical-offset="408" max-vertical-offset="1207">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/view/layout/reports.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="6819" max-vertical-offset="7531">
+          <caret line="430" column="25" selection-start-line="430" selection-start-column="25" selection-end-line="430" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/main/com/webbfontaine/valuewebb/model/TtInv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="9" max-vertical-offset="7718">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/report/AirCargoReport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1020">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/report/invoice/InvoiceReporter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="643" max-vertical-offset="2057">
+          <caret line="71" column="19" selection-start-line="71" selection-start-column="19" selection-end-line="71" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/hot/com/webbfontaine/valuewebb/report/AirCargoReporter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="2788">
+          <caret line="56" column="50" selection-start-line="56" selection-start-column="50" selection-end-line="56" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/jmeter/project/valuewebb.jmx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="168963">
+          <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/jmeter/project/common.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
+          <caret line="1" column="57" selection-start-line="1" selection-start-column="57" selection-end-line="1" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/jmeter/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+          <caret line="8" column="62" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/src/main/com/webbfontaine/valuewebb/model/TtGen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="935" max-vertical-offset="12648">
+          <caret line="94" column="26" selection-start-line="94" selection-start-column="26" selection-end-line="94" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/view/TtGenList.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="12070">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DOMCore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="4154" max-vertical-offset="18360">
+          <caret line="258" column="19" selection-start-line="258" selection-start-column="19" selection-end-line="258" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/view/js/assignmentNew.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2340" max-vertical-offset="3077">
+          <caret line="158" column="32" selection-start-line="158" selection-start-column="32" selection-end-line="158" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ValueWebb/valuewebb/view/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25793102" vertical-offset="255" max-vertical-offset="2754">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>valuewebb</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web2 (valuewebb)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>valuewebb</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

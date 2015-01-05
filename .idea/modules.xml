@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Trials.iml" filepath="$PROJECT_DIR$/Trials.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ValueWebb/valuewebb/fcvr-ut/fcvr-ut.iml" filepath="$PROJECT_DIR$/../ValueWebb/valuewebb/fcvr-ut/fcvr-ut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ValueWebb/valuewebb/valuewebb.iml" filepath="$PROJECT_DIR$/../ValueWebb/valuewebb/valuewebb.iml" />
+    </modules>
+  </component>
+</project>
+

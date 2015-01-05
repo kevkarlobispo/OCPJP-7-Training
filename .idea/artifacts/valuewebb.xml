@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="valuewebb">
+    <output-path>C:/DevelopmentTools/jbossServerCopy/jboss-5.1.0.GA-CI/server/default/deploy</output-path>
+    <root id="archive" name="valuewebb.ear">
+      <element id="module-output" name="valuewebb" />
+      <element id="directory" name="lib" />
+      <element id="javaee-facet-resources" facet="valuewebb/javaeeApplication/javaEEApplication" />
+      <element id="javaee-facet-resources" facet="valuewebb/javaeeApplication/javaEEApplication2" />
+      <element id="jpa-descriptors" facet="valuewebb/jpa/JPA" />
+      <element id="module-output" name="fcvr-ut" />
+    </root>
+  </artifact>
+</component>

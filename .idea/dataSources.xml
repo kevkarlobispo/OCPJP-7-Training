@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="138232379">
+    <data-source source="LOCAL" name="valuewebb" uuid="6a29fdb6-09cc-43c5-a9e9-9230ec937c9f">
+      <driver-ref>hsqldb.remote</driver-ref>
+      <jdbc-driver>org.hsqldb.jdbcDriver</jdbc-driver>
+      <jdbc-url>jdbc:hsqldb:mem:valuewebb</jdbc-url>
+      <user-name>sa</user-name>
+      <libraries>
+        <library>
+          <url>file://C:\grails-2.3.7\lib\xpp3\xpp3_min\jars\xpp3_min-1.1.4c.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+
